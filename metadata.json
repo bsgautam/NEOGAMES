@@ -1,0 +1,6 @@
+{
+  "name": "RIFTVAULT — Game Marketplace & Tournaments",
+  "description": "The premier competitive gaming marketplace and tournament arena. Buy, play, compete, and rank up across top esports titles with live brackets, instant game keys, and community hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
